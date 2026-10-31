@@ -1,4 +1,4 @@
-# **My Favorite Series**
+# My Favorite Series
 
 ## **Top 5 Favorite Series**
 1. Detective Conan
