@@ -4,3 +4,6 @@
 3. Hajime No Ippo
 4. Pokemon
 5. Dragon Ball
+
+## Detective Conan
+
