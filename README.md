@@ -4,7 +4,7 @@
 1. Detective Conan
 2. Death Note
 3. Hajime No Ippo
-4. Pokemon
+4. Pokémon
 5. Dragon Ball
 
 ### Detective Conan
@@ -25,4 +25,12 @@
 **Genre:** [Action](https://en.wikipedia.org/wiki/Action_fiction), [Comedy](https://en.wikipedia.org/wiki/Comedy), [Sports](https://en.wikipedia.org/wiki/Sports_manga)
 
 ***Hajime no Ippo*** (はじめの一歩; lit. 'The First Step') is a Japanese [boxing](https://en.wikipedia.org/wiki/Boxing)-themed [manga](https://en.wikipedia.org/wiki/Manga) series written and illustrated by [George Morikawa](https://en.wikipedia.org/wiki/George_Morikawa). It has been serialized in Kodansha's [*shōnen manga magazine*](https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga) Weekly Shōnen Magazine since October 1989, with its chapters collected in 145 tankōbon volumes as of January 2026. It follows the story of high school student Ippo Makunouchi, as he begins his career in boxing and over time obtains many titles and defeats various opponents.
+
+### Pokémon
+![Pokemon Poster](https://github.com/Driannnn1/AsiloApp-Dev/blob/main/Pokemon%20Poster.jpg)
+
+**Genre:** [Comedy](https://en.wikipedia.org/wiki/Comedy), [Fantasy comedy]([https://en.wikipedia.org/wiki/Sports_manga](https://en.wikipedia.org/wiki/Fantasy_comedy))
+
+The anime franchise consists of eight sequential series in Japan, each based on a main installment of the [Pokémon video game series](https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)). In the international broadcasts, these series are split across 29 seasons. The show originally followed [Ash Ketchum](https://en.wikipedia.org/wiki/Ash_Ketchum), a young trainer of fictional creatures called [Pokémon](https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon). Joined by his partner Pokémon Pikachu and a rotating cast of human characters, Ash goes on a journey to become a "Pokémon Master", traveling through the various regions of the Pokémon world and competing in various Pokémon-battling tournaments known as the Pokémon League. Starting with the 26th season, a new cast is featured, centering on protagonists Liko and Roy.
+
 
