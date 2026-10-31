@@ -29,7 +29,7 @@
 ### Pokémon
 ![Pokemon Poster](https://github.com/Driannnn1/AsiloApp-Dev/blob/main/Pokemon%20Poster.jpg)
 
-**Genre:** [Comedy](https://en.wikipedia.org/wiki/Comedy), [Fantasy comedy]([[https://en.wikipedia.org/wiki/Sports_manga](https://en.wikipedia.org/wiki/Fantasy_comedy)](https://en.wikipedia.org/wiki/Fantasy_comedy))
+**Genre:** [Comedy](https://en.wikipedia.org/wiki/Comedy), [Fantasy]([[https://en.wikipedia.org/wiki/Sports_manga](https://en.wikipedia.org/wiki/Fantasy_comedy)](https://en.wikipedia.org/wiki/Fantasy_comedy))
 
 The anime franchise consists of eight sequential series in Japan, each based on a main installment of the [Pokémon video game series](https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)). In the international broadcasts, these series are split across 29 seasons. The show originally followed [Ash Ketchum](https://en.wikipedia.org/wiki/Ash_Ketchum), a young trainer of fictional creatures called [Pokémon](https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon). Joined by his partner Pokémon Pikachu and a rotating cast of human characters, Ash goes on a journey to become a "Pokémon Master", traveling through the various regions of the Pokémon world and competing in various Pokémon-battling tournaments known as the Pokémon League. Starting with the 26th season, a new cast is featured, centering on protagonists Liko and Roy.
 
