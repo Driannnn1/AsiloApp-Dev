@@ -23,5 +23,6 @@
 ![Hajme No Ippo Poster](https://github.com/Driannnn1/AsiloApp-Dev/blob/main/Hajime%20No%20Ippo%20Poster.jpg?raw=true)
 
 **Genre:** [Action](https://en.wikipedia.org/wiki/Action_fiction), [Comedy](https://en.wikipedia.org/wiki/Comedy), [Sports](https://en.wikipedia.org/wiki/Sports_manga)
+
 ***Hajime no Ippo*** (はじめの一歩; lit. 'The First Step') is a Japanese [boxing](https://en.wikipedia.org/wiki/Boxing)-themed [manga](https://en.wikipedia.org/wiki/Manga) series written and illustrated by [George Morikawa](https://en.wikipedia.org/wiki/George_Morikawa). It has been serialized in Kodansha's [*shōnen manga magazine*](https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga) Weekly Shōnen Magazine since October 1989, with its chapters collected in 145 tankōbon volumes as of January 2026. It follows the story of high school student Ippo Makunouchi, as he begins his career in boxing and over time obtains many titles and defeats various opponents.
 
