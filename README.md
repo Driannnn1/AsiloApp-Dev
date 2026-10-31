@@ -40,4 +40,13 @@ The anime franchise consists of eight sequential series in Japan, each based on 
 
 **Dragon Ball** ([Japanese:](https://en.wikipedia.org/wiki/Japanese_language) ドラゴンボール, Hepburn: Doragon Bōru) is a Japanese [media franchise](https://en.wikipedia.org/wiki/Media_franchise) created by [Akira Toriyama](https://en.wikipedia.org/wiki/Akira_Toriyama). The series follows the adventures of protagonist [Son Goku](https://en.wikipedia.org/wiki/Goku) from his childhood through adulthood as he trains in martial arts. Along his journey, he makes several friends, becomes a family man, discovers his alien heritage, and battles a wide variety of villains, many of whom, like him, seek the mystical orbs called the Dragon Balls in order to summon a wish-granting dragon.
 
+## My Recomendation:
+
+| Anime | Description |
+| ----------- | ----------- |
+| Detective Conan | A mystery anime about a genius detective who solves crimes while hiding his true identity as a child. |
+| Death Note | A psychological thriller where a student gains a notebook that can kill anyone whose name is written in it. |
+| Hajime No Ippo | A boxing anime that follows Ippo's journey from a shy teenager to a professional champion. |
+| Pokémon | An adventure anime about trainers and their Pokémon traveling, battling, and making friends. |
+| Dragon Ball | An action anime that follows Goku's adventures and battles to protect Earth from powerful enemies. |
 
