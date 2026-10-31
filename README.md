@@ -33,4 +33,10 @@
 
 The anime franchise consists of eight sequential series in Japan, each based on a main installment of the [Pokémon video game series](https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)). In the international broadcasts, these series are split across 29 seasons. The show originally followed [Ash Ketchum](https://en.wikipedia.org/wiki/Ash_Ketchum), a young trainer of fictional creatures called [Pokémon](https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon). Joined by his partner Pokémon Pikachu and a rotating cast of human characters, Ash goes on a journey to become a "Pokémon Master", traveling through the various regions of the Pokémon world and competing in various Pokémon-battling tournaments known as the Pokémon League. Starting with the 26th season, a new cast is featured, centering on protagonists Liko and Roy.
 
+### Dragon Ball
+
+**Genre:** [Comedy](https://en.wikipedia.org/wiki/Comedy), [Fantasy](https://en.wikipedia.org/wiki/Fantasy_comedyhttps://en.wikipedia.org/wiki/Fantasy_comedy)
+
+**Dragon Ball** (([Japanese:](https://en.wikipedia.org/wiki/Japanese_language) ドラゴンボール, Hepburn: Doragon Bōru) is a Japanese [media franchise](https://en.wikipedia.org/wiki/Media_franchise) created by [Akira Toriyama](https://en.wikipedia.org/wiki/Akira_Toriyama). The series follows the adventures of protagonist [Son Goku](https://en.wikipedia.org/wiki/Goku) from his childhood through adulthood as he trains in martial arts. Along his journey, he makes several friends, becomes a family man, discovers his alien heritage, and battles a wide variety of villains, many of whom, like him, seek the mystical orbs called the Dragon Balls in order to summon a wish-granting dragon.
+
 
