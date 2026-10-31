@@ -42,7 +42,7 @@ The anime franchise consists of eight sequential series in Japan, each based on 
 
 ## My Recomendation:
 
-| Anime | Description |
+| Anime | If You Want... |
 | ----------- | ----------- |
 | Detective Conan | A mystery anime about a genius detective who solves crimes while hiding his true identity as a child. |
 | Death Note | A psychological thriller where a student gains a notebook that can kill anyone whose name is written in it. |
